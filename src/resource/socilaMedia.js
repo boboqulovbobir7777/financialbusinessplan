@@ -1,0 +1,3 @@
+const telegram = "";
+
+export { telegram };

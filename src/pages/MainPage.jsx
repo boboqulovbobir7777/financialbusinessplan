@@ -3,6 +3,7 @@ import AboutTeacher from "../components/AboutTeacher/AboutTeacher";
 import AboutScience from "../components/AboutScience/AboutScience";
 import MainResource from "../components/MainResource/MainResource";
 import Qushimcha from "../components/Qushumcha/Qushimcha";
+import AboutSite from "../components/AboutSite/AboutSite";
 
 export default function MainPage() {
   return (
@@ -11,6 +12,7 @@ export default function MainPage() {
         <AboutScience />
       </PageTop>
       <AboutTeacher />
+      <AboutSite />
       <MainResource />
       <Qushimcha />
     </>
